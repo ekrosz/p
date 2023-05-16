@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ulstu_1/1.0.0": {
+        "runtime": {
+          "Ulstu_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ulstu_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

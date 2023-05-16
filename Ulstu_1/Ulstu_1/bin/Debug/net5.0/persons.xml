@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product id="76ead628-e837-4468-8d0c-e124f6ab4993">
+    <name>a3fb7596-2132-4a98-9116-1d8a2565482f</name>
+    <price>52.56211689140746</price>
+    <Components>
+      <string>0583bda2-d631-4bec-bd60-847824571651</string>
+      <string>1f0c481f-90b0-43db-9e3b-2c3f516ea375</string>
+    </Components>
+  </Product>
+  <Product id="491cd9c2-9263-45c3-a94e-7c2e41a4ef67">
+    <name>3fa21a80-6f92-4b6c-8b02-fe9a975a4406</name>
+    <price>351.2222374376013</price>
+    <Components>
+      <string>0f6a7905-a09e-4ba8-bfcb-77ad2bb1c076</string>
+      <string>0e1f644a-07bc-4083-84b3-d6b70a4ba514</string>
+    </Components>
+  </Product>
+  <Product id="49b35f64-196a-467d-9b1b-0fa5a572b03b">
+    <name>47e2991a-43fa-45a3-9020-efc0f59052f1</name>
+    <price>70.87144846835707</price>
+    <Components>
+      <string>f27cfb92-6fcc-4dba-864d-299dd7242498</string>
+      <string>b9587d2f-e5e2-4d26-a1dc-54bf3651cab2</string>
+    </Components>
+  </Product>
+  <Product id="eda08487-b750-4bb6-9768-9570a2e6aada">
+    <name>e5fa71d2-826d-4ca9-a5ee-9049c336b162</name>
+    <price>161.02950260929273</price>
+    <Components>
+      <string>36b02a87-404d-442f-b038-aa2db06e862a</string>
+      <string>5782b48a-6eee-4180-8cbf-621f357e5700</string>
+    </Components>
+  </Product>
+  <Product id="97c578f2-79bc-417d-8b73-6b97f99b9290">
+    <name>59335508-4c21-47d3-8250-25b4aa9e95b6</name>
+    <price>413.0301243835269</price>
+    <Components>
+      <string>87f85401-4a06-4cc1-b409-9be49b4e3b66</string>
+      <string>13ef4e01-590c-423b-867d-bea5b81d9b77</string>
+    </Components>
+  </Product>
+  <Product id="afe16dd1-f9e4-4974-bb2f-a847e766e2fa">
+    <name>9016c164-7c35-4491-bb45-3d53fa0384b0</name>
+    <price>324.1294707749642</price>
+    <Components>
+      <string>7f576c02-a548-4e43-8538-21c1f3929d29</string>
+      <string>c98ed8fc-cd2e-4e28-a394-734bd4dfc731</string>
+    </Components>
+  </Product>
+  <Product id="f9cf65aa-3c0e-40e1-bdfd-1275d568218b">
+    <name>4adbacab-cc12-4f6f-b07b-b79a3cdc6cd3</name>
+    <price>140.75050359813056</price>
+    <Components>
+      <string>f075efda-648b-4750-9d3e-171c9805ae90</string>
+      <string>ae183e71-08dc-4800-bea3-06923eb352c3</string>
+    </Components>
+  </Product>
+  <Product id="e99d26d7-699e-4c39-9ccf-a0c1cebff0ed">
+    <name>f665ea85-8033-4fba-a516-b777e069b334</name>
+    <price>181.24991113797293</price>
+    <Components>
+      <string>300647a3-192c-44f5-9c2e-31318cfba124</string>
+      <string>fc2239b8-4848-443e-aff8-2e1dc020cf05</string>
+    </Components>
+  </Product>
+  <Product id="6339c5b1-7648-405c-bb26-57768134f160">
+    <name>0de4ee83-b6f2-4410-877a-aede416861d6</name>
+    <price>204.42708344777444</price>
+    <Components>
+      <string>c90cacf7-929e-4819-947c-7cb10c10a987</string>
+      <string>17d96454-2286-46fb-a6f3-595f2b0c2f1b</string>
+    </Components>
+  </Product>
+  <Product id="e2f2e500-1f3f-4178-babc-5c8139563f7d">
+    <name>c0005177-6d64-4145-8ada-5f67c3f05b9d</name>
+    <price>31.79210549210762</price>
+    <Components>
+      <string>9a565ed5-a0b7-4a04-bfb0-1edc4f39169e</string>
+      <string>1862237d-54e1-45f3-9cbd-7b0fa7114257</string>
+    </Components>
+  </Product>
+  <Product id="393a5cf0-dd10-4cc8-94c3-d8520067a215">
+    <name>9d66c66e-53cb-42ea-a3d4-835540b33823</name>
+    <price>662.0679336199853</price>
+    <Components>
+      <string>54f207c4-2695-4203-a621-92b114af53af</string>
+      <string>a857a32f-09b5-4915-bee5-9eb1d7ff6f5c</string>
+    </Components>
+  </Product>
+  <Product id="53460f3a-00ec-4a04-b703-28d9edd4b849">
+    <name>2485ec04-8aef-4193-b538-4c89a99cee7d</name>
+    <price>642.223754820518</price>
+    <Components>
+      <string>f5017cc9-290b-4132-b8d2-757af9d17077</string>
+      <string>46b6b40b-5f02-4615-aea0-bd0e708eb893</string>
+    </Components>
+  </Product>
+  <Product id="5b6d5775-c877-47a7-b273-3862edb8980c">
+    <name>be0aa320-5d2b-466c-90b6-bb2316b10398</name>
+    <price>499.26217272563935</price>
+    <Components>
+      <string>2f662d79-a0b6-40fe-9478-d20ac986a8a3</string>
+      <string>3495cee7-3c6b-4d8a-b509-4ce9e279012f</string>
+    </Components>
+  </Product>
+  <Product id="b51ddb1d-c52b-44fe-977e-889cc20b579f">
+    <name>8cb88604-05dd-4a9a-8263-b3b2bb95fec4</name>
+    <price>118.72920407388789</price>
+    <Components>
+      <string>6a2ebacb-727e-40df-97f6-1116d850413c</string>
+      <string>8b5faf71-cfcb-45a2-82f1-87bad1447356</string>
+    </Components>
+  </Product>
+  <Product id="cf752647-c5b2-43e5-a894-0c8ff808c2e4">
+    <name>8b94d495-abaa-4d8a-a226-8317e03ca1ab</name>
+    <price>137.84127099106146</price>
+    <Components>
+      <string>fb783db3-cb76-4dea-b344-0b10ea528254</string>
+      <string>a1013f97-b0d1-4cc2-b828-90753e26f8de</string>
+    </Components>
+  </Product>
+  <Product id="d025c65e-cef6-465c-be27-338417f72d96">
+    <name>13ce3d82-26a5-4383-85fb-18be2b469cfd</name>
+    <price>86.13687604392733</price>
+    <Components>
+      <string>b431fac2-0ea2-48fb-9a3a-b60e87502c76</string>
+      <string>a7f22dcd-3484-4fbd-955f-29b1f19f0852</string>
+    </Components>
+  </Product>
+  <Product id="1b6adc54-8551-4708-b036-cbf801e5db93">
+    <name>59e282c7-a88e-477a-8eff-b513441580aa</name>
+    <price>683.1017910144766</price>
+    <Components>
+      <string>76b65bb3-2642-4e32-a1aa-0090cff36f64</string>
+      <string>cc722c6a-75c2-413b-b3cf-d9eb6d811322</string>
+    </Components>
+  </Product>
+  <Product id="b7fce2ce-5127-4e44-be62-755debe4c5f0">
+    <name>3e8e0085-94e3-4762-9121-43256f58e05a</name>
+    <price>751.5961103754099</price>
+    <Components>
+      <string>5d006f56-20b1-4440-b4c0-0e6a40c87555</string>
+      <string>fedbb7bf-b5a3-440a-a5b0-0d739cc8431c</string>
+    </Components>
+  </Product>
+  <Product id="725ba4d4-f28b-4d5d-8ee4-d7c6f993a201">
+    <name>7efda91a-50d7-4f62-b1c0-05080c11dd43</name>
+    <price>72.61302173166212</price>
+    <Components>
+      <string>2e2e4ff3-17ec-446e-9a1d-777867cabf95</string>
+      <string>062fd58e-816b-4cf5-bd13-bd1bf6b7b4ec</string>
+    </Components>
+  </Product>
+  <Product id="6292eecd-1313-4dac-b707-7c310ba8d15b">
+    <name>03fe5763-61c2-4c0f-b19c-c46cb9cfbca4</name>
+    <price>151.78683824268487</price>
+    <Components>
+      <string>af6fe8cc-f8a0-46a7-b42f-6d6c38c300e0</string>
+      <string>ff2fe7a2-8ca6-4a13-b890-7655d7231f80</string>
+    </Components>
+  </Product>
+</ArrayOfProduct>
